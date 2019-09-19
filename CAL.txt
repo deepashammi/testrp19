@@ -10,9 +10,6 @@ CODEALIKE-2872 -- Reviewed
 CODEALIKE-2874-- comment says ignore this defect
 CODEALIKE-3045-- blocked E2E due to defect.(CODEALIKE-2874)
 
-htwfdhwedhfwedyfwegqjy
-
 CODEALIKE-3146
 
-wehjvbmefwkbwkfejbwmenfbwkjhefjwebfj
 https://2019-3-0-testing-45951ce-b2483.jivelandia.com
